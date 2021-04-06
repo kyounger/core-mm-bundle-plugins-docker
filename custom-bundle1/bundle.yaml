@@ -1,0 +1,8 @@
+id: 'test'
+version: '1'
+apiVersion: '1'
+description: 'test bundle -- included into docker image'
+plugins:
+- 'plugins.yaml'
+jcasc:
+- 'jenkins.yaml'
