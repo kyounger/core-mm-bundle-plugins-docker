@@ -1,4 +1,4 @@
-# build docker image with non-CAP plugins in the image
+# How to extend core-mm docker image with plugins and CasC Bundle
 
 * Note, no `plugin-catalog.yaml` included in the CasC bundle.
 * Only put CAP plugins in `plugins.yaml`
